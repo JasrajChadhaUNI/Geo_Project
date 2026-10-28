@@ -1,0 +1,37 @@
+{
+  "status": "passed",
+  "executed_code_cells": [
+    "step_02",
+    "step_03",
+    "step_04",
+    "step_05",
+    "step_06",
+    "step_07",
+    "step_08",
+    "step_09",
+    "step_10",
+    "step_11",
+    "step_12",
+    "step_13",
+    "step_14",
+    "step_15",
+    "step_16",
+    "step_18",
+    "step_19"
+  ],
+  "tile_caches": 140,
+  "road_sections": 979,
+  "candidate_polygons": 1355,
+  "gns_matches_50m": 1526,
+  "fresh_route70_checks": 3,
+  "map_network_requests": 0,
+  "folium_html_render": "passed: embedded images, no OSM tile URL",
+  "live_colab_auth": "not executed locally",
+  "SH1_raw_evidence": "Existing user-executed cell retained; not re-executed locally because SH1 source rasters are only in Drive.",
+  "notes": [
+    "Colab install and authentication replaced locally.",
+    "Exact-input recovery and repeatability checks limited locally to available Route70 rasters.",
+    "Static maps and interactive HTML generation tested with HTTP requests disabled."
+  ],
+  "interactive_browser_preview": "Visually verified: OSM context, coloured routes, layer controls and legend rendered."
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "corridor": "SH1 North",
+    "file": "osm_sh1_north.tif",
+    "sha256": "fe6bfc0d2327dce229441342c18aedf02e0680a0c49627fc29929230179efca8",
+    "crs": "EPSG:2193",
+    "source": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+    "zoom": 11,
+    "attribution": "\u00a9 OpenStreetMap contributors",
+    "license": "https://www.openstreetmap.org/copyright",
+    "note": "Fixed context raster assembled from the previously retrieved map-rendering cache. Geographic coverage is limited to this corridor context."
+  },
+  {
+    "corridor": "SH1 South",
+    "file": "osm_sh1_south.tif",
+    "sha256": "e4a6395a6197c2f79e6d835671bbc7f8509cd805a1f293314b8fedd97e4a0e80",
+    "crs": "EPSG:2193",
+    "source": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+    "zoom": 11,
+    "attribution": "\u00a9 OpenStreetMap contributors",
+    "license": "https://www.openstreetmap.org/copyright",
+    "note": "Fixed context raster assembled from the previously retrieved map-rendering cache. Geographic coverage is limited to this corridor context."
+  },
+  {
+    "corridor": "Route 70",
+    "file": "osm_route70.tif",
+    "sha256": "1e27389bd7a46ab0edd00c068ed250822bd4fa50fb3ffb4dd40bbbd48e1a183c",
+    "crs": "EPSG:2193",
+    "source": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+    "zoom": 11,
+    "attribution": "\u00a9 OpenStreetMap contributors",
+    "license": "https://www.openstreetmap.org/copyright",
+    "note": "Fixed context raster assembled from the previously retrieved map-rendering cache. Geographic coverage is limited to this corridor context."
+  }
+]
